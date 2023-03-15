@@ -14,6 +14,6 @@ https://zakirali1.github.io/zak-react/
 # Contributors
 Just myself.
 
-#Contact
+# Contact
 Feel free to contact me.
 
