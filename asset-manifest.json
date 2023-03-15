@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zak-React/static/css/main.0f49f05f.css",
-    "main.js": "/Zak-React/static/js/main.3629f5e2.js",
+    "main.js": "/Zak-React/static/js/main.b3daac27.js",
     "static/js/787.002c8c3a.chunk.js": "/Zak-React/static/js/787.002c8c3a.chunk.js",
     "static/media/movie.png": "/Zak-React/static/media/movie.66c122772d076660caf7.png",
     "static/media/wd.png": "/Zak-React/static/media/wd.57ee985c51b33fa057ba.png",
@@ -12,11 +12,11 @@
     "static/media/passwordgen.png": "/Zak-React/static/media/passwordgen.066eeb41730d6f81fd88.png",
     "index.html": "/Zak-React/index.html",
     "main.0f49f05f.css.map": "/Zak-React/static/css/main.0f49f05f.css.map",
-    "main.3629f5e2.js.map": "/Zak-React/static/js/main.3629f5e2.js.map",
+    "main.b3daac27.js.map": "/Zak-React/static/js/main.b3daac27.js.map",
     "787.002c8c3a.chunk.js.map": "/Zak-React/static/js/787.002c8c3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f49f05f.css",
-    "static/js/main.3629f5e2.js"
+    "static/js/main.b3daac27.js"
   ]
 }
