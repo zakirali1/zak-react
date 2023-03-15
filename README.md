@@ -1,4 +1,4 @@
-# React
+# React Portfolio
 
 # Description
 This is a react portfolio page focused on providing an insight into some of my skills around Front-end development. I created this using components, and passing down props to components to use and manipulate to render outputs depending on state. Further, I also used nodejs to write to a .json file, making it easier to update as and when and in one place to see that reflected in other parts of the page. 
