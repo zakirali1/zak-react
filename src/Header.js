@@ -17,7 +17,7 @@ function Header() {
   <div className="collapse navbar-collapse " id="navbarNavAltMarkup">
     <div className="navbar-nav">
         <NavLink 
-        to="/React-Page"
+        to="/home"
         end
         className={({isActive}) =>
         isActive ? "nav-link active" : "nav-link" 
