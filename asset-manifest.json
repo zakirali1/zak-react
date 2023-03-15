@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zak-react/static/css/main.0f49f05f.css",
-    "main.js": "/zak-react/static/js/main.b829d385.js",
+    "main.js": "/zak-react/static/js/main.2087c734.js",
     "static/js/787.002c8c3a.chunk.js": "/zak-react/static/js/787.002c8c3a.chunk.js",
     "static/media/movie.png": "/zak-react/static/media/movie.66c122772d076660caf7.png",
     "static/media/wd.png": "/zak-react/static/media/wd.57ee985c51b33fa057ba.png",
@@ -12,11 +12,11 @@
     "static/media/passwordgen.png": "/zak-react/static/media/passwordgen.066eeb41730d6f81fd88.png",
     "index.html": "/zak-react/index.html",
     "main.0f49f05f.css.map": "/zak-react/static/css/main.0f49f05f.css.map",
-    "main.b829d385.js.map": "/zak-react/static/js/main.b829d385.js.map",
+    "main.2087c734.js.map": "/zak-react/static/js/main.2087c734.js.map",
     "787.002c8c3a.chunk.js.map": "/zak-react/static/js/787.002c8c3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f49f05f.css",
-    "static/js/main.b829d385.js"
+    "static/js/main.2087c734.js"
   ]
 }
