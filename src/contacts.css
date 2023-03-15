@@ -1,0 +1,21 @@
+.page-container {
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  .footer-container {
+    display:flex;
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+  }
+
+  .icons {
+    padding: 20px;
+    margin: 5px;
+  }
